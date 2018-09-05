@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-RunLaunch</actionName>
+            <displayName>RunLaunch</displayName>
+            <goals>
+                <goal>-e</goal>
+                <goal>-X</goal>
+                <goal>exec</goal>
+            </goals>
+        </action>
+    </actions>
