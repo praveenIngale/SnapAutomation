@@ -1,2 +1,0 @@
-The source code implemented by me is present in 
-src->main->java->com->mycompany->automation->snap.
